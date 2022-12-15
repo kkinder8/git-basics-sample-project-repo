@@ -14,7 +14,10 @@ h1 {
 h1, h2, p, .menu-sep {
   color: white;
 }
-
+/* change made to show our names better */
+li {
+  color: white;
+}
 .planets-container {
   display:flex;
   justify-content: space-evenly;
